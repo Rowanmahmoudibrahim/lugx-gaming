@@ -1,0 +1,26 @@
+import logoImg from '../assets/logo.png'; // استيراد اللوجو
+
+export const IMAGES = {
+  logo: "https://templatemo.com/templates/templatemo_589_lugx_gaming/assets/images/logo.png",
+  bannerImage: "https://templatemo.com/templates/templatemo_589_lugx_gaming/assets/images/banner-image.jpg",
+  featured01: "https://templatemo.com/templates/templatemo_589_lugx_gaming/assets/images/featured-01.png",
+  featured02: "https://templatemo.com/templates/templatemo_589_lugx_gaming/assets/images/featured-02.png",
+  featured03: "https://templatemo.com/templates/templatemo_589_lugx_gaming/assets/images/featured-03.png",
+  featured04: "https://templatemo.com/templates/templatemo_589_lugx_gaming/assets/images/featured-04.png",
+  trending01: "https://templatemo.com/templates/templatemo_589_lugx_gaming/assets/images/trending-01.jpg",
+  trending02: "https://templatemo.com/templates/templatemo_589_lugx_gaming/assets/images/trending-02.jpg",
+  trending03: "https://templatemo.com/templates/templatemo_589_lugx_gaming/assets/images/trending-03.jpg",
+  trending04: "https://templatemo.com/templates/templatemo_589_lugx_gaming/assets/images/trending-04.jpg",
+  topGame01: "https://templatemo.com/templates/templatemo_589_lugx_gaming/assets/images/top-game-01.jpg",
+  topGame02: "https://templatemo.com/templates/templatemo_589_lugx_gaming/assets/images/top-game-02.jpg",
+  topGame03: "https://templatemo.com/templates/templatemo_589_lugx_gaming/assets/images/top-game-03.jpg",
+  topGame04: "https://templatemo.com/templates/templatemo_589_lugx_gaming/assets/images/top-game-04.jpg",
+  topGame05: "https://templatemo.com/templates/templatemo_589_lugx_gaming/assets/images/top-game-05.jpg",
+  topGame06: "https://templatemo.com/templates/templatemo_589_lugx_gaming/assets/images/top-game-06.jpg",
+  category01: "https://templatemo.com/templates/templatemo_589_lugx_gaming/assets/images/categories-01.jpg",
+category02: "https://templatemo.com/templates/templatemo_589_lugx_gaming/assets/images/categories-02.jpg",
+category03: "https://templatemo.com/templates/templatemo_589_lugx_gaming/assets/images/categories-03.jpg",
+category04: "https://templatemo.com/templates/templatemo_589_lugx_gaming/assets/images/categories-04.jpg",
+category05: "https://templatemo.com/templates/templatemo_589_lugx_gaming/assets/images/categories-05.jpg",
+shopBg: "https://templatemo.com/templates/templatemo_589_lugx_gaming/assets/images/cta-bg.jpg",
+};
